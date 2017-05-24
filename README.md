@@ -2,6 +2,7 @@
 
 Art, Engineeting Design, Code, Publications, Oration.
 
-### Cntact
+### Contact
 [Email](christine_r_joseph@berkeley.edu)
+
 [Linkedin](https://www.linkedin.com/in/christine-rachel-joseph/)
